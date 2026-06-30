@@ -431,6 +431,15 @@ tools:
   css-js-prettify-minify:
     title: CSS/JS Prettify & Minify
     description: Prettify or minify your CSS and JavaScript code online.
+    language: Language
+    indentSize: Indent size
+    prettify: Prettify
+    minify: Minify
+    yourCode: Your code
+    pasteToPrettify: Paste your code to prettify...
+    pasteToMinify: Paste your code to minify...
+    prettifiedCode: Prettified code
+    minifiedCode: Minified code
 
   curl-to-code:
     title: cURL to Code

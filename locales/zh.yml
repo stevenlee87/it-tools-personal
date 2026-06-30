@@ -427,6 +427,15 @@ tools:
   css-js-prettify-minify:
     title: CSS/JS 格式化与压缩
     description: 在线格式化或压缩您的 CSS 和 JavaScript 代码。
+    language: 语言
+    indentSize: 缩进大小
+    prettify: 格式化
+    minify: 压缩
+    yourCode: 你的代码
+    pasteToPrettify: 粘贴要格式化的代码...
+    pasteToMinify: 粘贴要压缩的代码...
+    prettifiedCode: 格式化后的代码
+    minifiedCode: 压缩后的代码
 
   curl-to-code:
     title: cURL 转代码
